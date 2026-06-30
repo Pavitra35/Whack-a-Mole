@@ -52,12 +52,15 @@ Whack-A-Mole/
 6. Click **Restart** to begin a new game at any time.
 7. Try to achieve the highest score before the timer ends.
 
+## ⚙️ click and play
+https://whack-a-mole-pavitra.netlify.app/
+
 ## ⚙️ Installation
 
 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/whack-a-mole.git
+git clone https://github.com/Pavitra35/Whack-A-Mole.git
 
 2. Open the project folder.
 
